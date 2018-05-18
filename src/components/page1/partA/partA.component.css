@@ -1,0 +1,8 @@
+.partA{
+	color: blue;
+}
+.img{
+  height: 300px;
+  width: 300px;
+  background: url("../../../assets/test.jpg") no-repeat;
+}
